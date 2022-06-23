@@ -1,16 +1,6 @@
-# getx_ecommerce
+# Getx E Commerce | Kivi Shop
 
-A new Flutter project.
+this app shows a best use of Getx State Management and Best UI/UX also e commerce Logic.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Here is Output :
+![Gitx Ecommerce](https://user-images.githubusercontent.com/90972632/175381792-14c2fc49-a052-4f5f-ac3b-dadcf3564b94.gif)
